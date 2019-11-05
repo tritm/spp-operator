@@ -1,0 +1,7 @@
+apiVersion: spp.yasufum.github.com/v1alpha1
+kind: Spp
+metadata:
+  name: example-spp
+spec:
+  # Add fields here
+  size: 3
